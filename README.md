@@ -35,7 +35,7 @@ I'm a **BTech IT student** with a passion for **software development, AI, and au
 - **5-Star Gold Badge** in *30 Days of Code* on **HackerRank**.
 
 ## 📫 Connect With Me
-- GitHub: [github.com/romilmonpara](#)
+- GitHub: [[github.com/romilmonpara](https://github.com/romilmonpara)](#)
 - LinkedIn: [linkedin.com/in/](#)
 - Email: :D
 
